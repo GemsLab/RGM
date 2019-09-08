@@ -1,4 +1,4 @@
-#RGM 
+# RGM 
 **Paper**: Mark Heimann, Tara Safavi, and Danai Koutra. Distribution of Node Embeddings as Multiresolution Features for Graphs. IEEE International Conference on Data Mining (ICDM), November 2019.
 <!--Link: https://gemslab.github.io/papers/jin-2019-node2bits.pdf-->
 <!--<p align=?center?>
