@@ -1,4 +1,4 @@
-# RGM: Randomized Grid Mapping
+# RGM: Randomized Grid Mapping for Fast Graph Classification
 This is a reference implementation for RGM, an unsupervised method for constructing feature maps for graphs.  RGM characterizes a graph by the distribution of its node's latent features or embeddings in vector space.  The resulting feature maps may be used to perform machine learning tasks such as classification where the data points are graphs.  Here we provide an example use case of RGM for graph classification.
 
 **Usage**: python main.py
